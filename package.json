@@ -1,0 +1,14 @@
+
+{
+  "name": "solutions-whatsapp-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WhatsApp Cloud API Webhook - Solutions S.A.",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
